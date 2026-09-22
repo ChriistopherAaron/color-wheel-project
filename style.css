@@ -1,0 +1,15 @@
+.color-wheel {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: black;
+    background: conic-gradient(
+        #ff6b6b 0deg 60deg,
+        #4ecdc4 60deg 120deg,
+        #ffe66d 120deg 180deg,
+        blue 180deg 240deg,
+        purple 240deg 300deg,
+        turquoise 300deg 360deg
+    );
+}
+
